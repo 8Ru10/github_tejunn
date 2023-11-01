@@ -1,0 +1,12 @@
+@charset "utf-8";
+.title-text {
+    font-size: 50px;
+    color: gray;
+    text-align: center;
+}
+.tejun {
+    font-size: 30px;
+    color: darkgray;
+    font-family: "メイリオ", Meiryo;;
+    text-align: center;
+}
